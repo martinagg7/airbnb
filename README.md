@@ -1,6 +1,7 @@
 # airbnb
 Participantes:Enrique Pardo y Martina Garcia 
-Link Repo_
+
+Link Repo:https://github.com/martinagg7/airbnb.git
 
 ## Tarea
 Sin usar Pandas:
